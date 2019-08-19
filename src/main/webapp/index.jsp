@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Insert title here</title>
+		<title>Maven Project</title>
 	</head>
 	<body>
 		Hello World!! 수정 했습니다~
